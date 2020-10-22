@@ -1,5 +1,7 @@
 # Web Chat
 
+![chat app](chat.png "Reference App")
+
 ## Run the App
 
 1. Download the github repo.
